@@ -155,6 +155,7 @@ body {
 	border-radius: 6px;
 	background: rgb(254, 254, 254);
 	padding-top: 8px;
+	list-style-type: none;
 }
 
 mark {
